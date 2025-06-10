@@ -1,4 +1,3 @@
-## Olá Mundo! 👋
 ## Pedro Ferreira Prado
 <!--
 **PedroFerreira5/PedroFerreira5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
