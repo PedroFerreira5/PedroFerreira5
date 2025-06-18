@@ -1,9 +1,7 @@
-## Olá, Meu nome é Pedro Ferreira Prado 👨‍💻
-
-Bem-vindo ao meu perfil!
+## Olá, Bem vindo!
 
 ### 🚀 Sobre mim
-Meu nome é Pedro, tenho 20 anos. Atualmente, estou cursando Ciência da Computação na Universidade Federal de Alfenas (UNIFAL-MG).
+Meu nome é Pedro Ferreira, tenho 20 anos. Atualmente, estou cursando Ciência da Computação na Universidade Federal de Alfenas (UNIFAL-MG).
 Sou um entusiasta da tecnologia, sempre em busca de aprofundar meus conhecimentos e aplicar novas soluções no desenvolvimento de softwares.
 
 ### 🛠️ Languages and Tools
