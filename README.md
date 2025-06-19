@@ -10,8 +10,8 @@ Sou um entusiasta da tecnologia, sempre em busca de aprofundar meus conhecimento
 <img src="https://skillicons.dev/icons?i=cpp,py,java" />
 
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=PedroFerreira5&show_icons=true&theme=tokyonight" />
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFerreira5&layout=compact&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=PedroFerreira5&show_icons=true&theme=tokyonight&height=200" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFerreira5&layout=compact&theme=tokyonight&height=200" />
 </p>
 
 ### 📫 Sociais
