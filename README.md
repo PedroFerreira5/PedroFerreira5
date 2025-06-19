@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mim
 Meu nome é Pedro Ferreira, tenho 20 anos. Atualmente, estou cursando Ciência da Computação na Universidade Federal de Alfenas (UNIFAL-MG).
-Sou um entusiasta da tecnologia, sempre em busca de aprofundar meus conhecimentos e aplicar novas soluções no desenvolvimento de softwares.
+Gosto muito de tecnologia, sempre em busca de aprofundar meus conhecimentos e aplicar novas soluções no desenvolvimento de softwares.
 
 ### 🛠️ Linguagens e ferramentas
 <img src="https://skillicons.dev/icons?i=c,cs,js,html,css,linux,ps" />
