@@ -15,6 +15,9 @@ Gosto muito de tecnologia, sempre em busca de aprofundar meus conhecimentos e ap
   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFerreira5&layout=compact&theme=tokyonight&height=200" />
 </p>
 
+### 🛠️ Portfólio 
+https://github.com/PedroFerreira5/pedroferreira5.github.io
+
 ### 📫 Sociais
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pedroferreirap_/)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pedro-ferreira-prado-694251273/)
