@@ -16,7 +16,8 @@ Gosto muito de tecnologia, sempre em busca de aprofundar meus conhecimentos e ap
 </p>
 
 ### 🛠️ Portfólio 
-https://github.com/PedroFerreira5/pedroferreira5.github.io
+[![PORTFÓLIO](https://skillicons.dev/icons?i=github)](https://pedroferreira5.github.io)
+
 
 ### 📫 Sociais
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pedroferreirap_/)
