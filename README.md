@@ -5,10 +5,10 @@ Meu nome é Pedro Ferreira, tenho 20 anos. Atualmente, estou cursando Ciência d
 Gosto muito de tecnologia, sempre em busca de aprofundar meus conhecimentos e aplicar novas soluções no desenvolvimento de softwares.
 
 ### 🛠️ Linguagens e ferramentas
-<img src="https://skillicons.dev/icons?i=c,cs,js,linux,ps" />
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,ps" />
 
 ### 📚 Aprendendo
-<img src="https://skillicons.dev/icons?i=cpp,py,java" />
+<img src="https://skillicons.dev/icons?i=cs,py,java,js,html" />
 
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=PedroFerreira5&show_icons=true&theme=tokyonight&height=200" />
