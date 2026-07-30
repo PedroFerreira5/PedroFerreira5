@@ -36,12 +36,16 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=PedroFerreira5&show_icons=true&theme=tokyonight&hide_border=true&height=200" />
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFerreira5&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=PedroFerreira5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&height=200" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFerreira5&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroFerreira5&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroFerreira5&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
