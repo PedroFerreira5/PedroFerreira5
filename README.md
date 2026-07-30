@@ -73,17 +73,9 @@
 
 ## 🚀 Projetos em destaque
 
-📌 **Palíndromo em C**
+📌 **Agro Analyzer**
 
-Algoritmo para reconhecimento de palíndromos utilizando manipulação de arquivos.
-
-📌 **Ordenação Externa**
-
-Implementação de ordenação de arquivos maiores que a memória principal.
-
-📌 **Ordenação de Structs**
-
-Aplicação de diferentes algoritmos clássicos de ordenação em registros estruturados.
+Uma CLI em Haskell para analisar preços históricos de commodities agrícolas brasileiras (boi gordo, soja e milho), usando dados do CEPEA/ESALQ.
 
 ➡️ Todos os projetos:
 
